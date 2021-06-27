@@ -1,2 +1,2 @@
-# ClassNotesCV
-ClassNotesCV is a tool taking notes during online classes using Finger gestures in the Camera.
+# EthVoter
+EthVoter is a voting web app mainly based on block-chain consepts.
